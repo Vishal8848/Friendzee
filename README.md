@@ -1,3 +1,12 @@
+## Friendzee
+
+     An application to extend interaction between your friends.
+Add your friends, edit their details, view their profile and more.
+All done through a Cloudflare Tunnel to perform secure connection
+between users to sustain privacy and secure credentials.
+
+The app being built with Laravel, below you have its own Laravel documentation.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
